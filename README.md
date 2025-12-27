@@ -31,12 +31,13 @@ _Project created as part of a Computer Programming course during studies._
 
 ### Build the project:
 ```bash
+mkdir build
 cd build
 cmake ..
 cmake --build .
 ```
 ### Run the project:
-Run the executable from the **build** folder in your terminal:
+Run the executable from the **build** folder in terminal:
 ```bash
 ./Backgammon_Game
 ```
