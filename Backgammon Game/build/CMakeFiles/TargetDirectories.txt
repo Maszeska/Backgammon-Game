@@ -1,3 +1,0 @@
-/Users/martad/Documents/studia/1. sem/CP/Backgammon Game/build/CMakeFiles/Backgammon_Game.dir
-/Users/martad/Documents/studia/1. sem/CP/Backgammon Game/build/CMakeFiles/edit_cache.dir
-/Users/martad/Documents/studia/1. sem/CP/Backgammon Game/build/CMakeFiles/rebuild_cache.dir
